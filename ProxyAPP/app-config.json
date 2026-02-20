@@ -1,0 +1,12 @@
+{
+    "logLevel": "None",
+    "proxies": [
+        {
+            "appNames": ["FortniteClient-Win64-Shipping"],
+            "socks5ProxyEndpoint": "socks-local.antizapret:8118",
+            "username": "proxy",
+            "password": "NQ7rpk2X",
+            "supportedProtocols": ["TCP", "UDP"]
+        }
+    ]
+}
